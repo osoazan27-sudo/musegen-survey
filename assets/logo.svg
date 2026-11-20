@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" stroke="#35DE7B" stroke-linecap="round">
+  <!-- MuseGen 品牌符号「衰减 G」：笔画由粗渐细 4.4 → 2.2，与站内 BrandMark 组件同源 -->
+  <path d="M20.02 9.31A9 9 0 0 0 10.92 7.54" stroke-width="4.4"/>
+  <path d="M10.92 7.54A9 9 0 0 0 5.09 14.75" stroke-width="3.9"/>
+  <path d="M5.09 14.75A9 9 0 0 0 8.71 23.28" stroke-width="3.4"/>
+  <path d="M8.71 23.28A9 9 0 0 0 17.95 24.09" stroke-width="2.9"/>
+  <path d="M17.95 24.09A9 9 0 0 0 23 16" stroke-width="2.4"/>
+  <path d="M23 16H17.5" stroke-width="2.2"/>
+</svg>
